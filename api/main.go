@@ -156,7 +156,6 @@ var modelMap = map[string]string{
 	"gpt5":                     "gpt_5",
 	"gpt5-mini":               "gpt_5_mini",
 	"gpt-4o":                  "gpt_4o",
-	"gpt-4o":                  "gpt_4o",
 	"gpt-4o-mini":             "gpt_4o_mini",
 	"claude-3-opus":           "claude_3_opus",
 	"claude-3.5-sonnet":       "claude_3_5_sonnet",
