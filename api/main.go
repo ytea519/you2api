@@ -166,7 +166,7 @@ var modelMap = map[string]string{
 	"llama-4-maverick":        "llama4_maverick",
 	"llama-4-scout":           "llama4_scout",
 	"mistral-large-2":         "mistral_large_2",
-	"qwen3-235b":              "qwen3_235b"
+	"qwen3-235b":              "qwen3_235b",
 	"qwq-32b":                 "qwq_32b",
 	"qwen-2.5-72b":            "qwen2p5_72b",
 	"qwen-2.5-coder-32b":      "qwen2p5_coder_32b",
