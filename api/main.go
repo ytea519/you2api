@@ -156,7 +156,6 @@ var modelMap = map[string]string{
 	"gpt5":                     "gpt_5",
 	"gpt5-mini":               "gpt_5_mini",
 	"gpt-4o":                  "gpt_4o",
-	"gpt-4o":                  "gpt_4o",
 	"gpt-4o-mini":             "gpt_4o_mini",
 	"claude-3-opus":           "claude_3_opus",
 	"claude-3.5-sonnet":       "claude_3_5_sonnet",
@@ -166,7 +165,7 @@ var modelMap = map[string]string{
 	"llama-4-maverick":        "llama4_maverick",
 	"llama-4-scout":           "llama4_scout",
 	"mistral-large-2":         "mistral_large_2",
-	"qwen3-235b":              "qwen3_235b"
+	"qwen3-235b":              "qwen3_235b",
 	"qwq-32b":                 "qwq_32b",
 	"qwen-2.5-72b":            "qwen2p5_72b",
 	"qwen-2.5-coder-32b":      "qwen2p5_coder_32b",
@@ -186,7 +185,6 @@ var modelMap = map[string]string{
 	"grok-3-beta":	   "grok_3",
 	"grok-3-mini":	   "grok_3_mini",
 	"grok-2":	   "grok_2",
-	"grok-3-mini-beta":	   "grok_3_mini",
         "nous-hermes-2":	   "nous_hermes_2",
 }
 
