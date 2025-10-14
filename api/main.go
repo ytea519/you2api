@@ -172,10 +172,14 @@ var modelMap = map[string]string{
 	"command-r-plus":          "command_r_plus",
 	"claude-3-7-sonnet":       "claude_3_7_sonnet",
 	"claude-3-7-sonnet-think": "claude_3_7_sonnet_thinking",
-        "claude-4-sonnet":         "claude_4_sonnet",
+    "claude-4-sonnet":         "claude_4_sonnet",
 	"claude-4-sonnet-think":   "claude_4_sonnet_thinking",
-        "claude-4-opus":           "claude_4_opus",
+    "claude-4.5-sonnet":         "claude_4_5_sonnet",
+	"claude-4.5-sonnet-think":   "claude_4_5_sonnet_thinking",
+    "claude-4-opus":           "claude_4_opus",
 	"claude-4-opus-think":     "claude_4_opus_thinking",
+    "claude-4.1-opus":           "claude_4_1_opus",
+	"claude-4.1-opus-think":     "claude_4_1_opus_thinking",
 	"gemini-2.5-pro":	   "gemini_2_5_pro_preview",
 	"o3":	   "openai_o3",
 	"o3-pro":	   "openai_o3_pro",
@@ -185,7 +189,7 @@ var modelMap = map[string]string{
 	"grok-3-beta":	   "grok_3",
 	"grok-3-mini":	   "grok_3_mini",
 	"grok-2":	   "grok_2",
-        "nous-hermes-2":	   "nous_hermes_2",
+    "nous-hermes-2":	   "nous_hermes_2",
 }
 
 // getReverseModelMap 创建并返回 modelMap 的反向映射（You.com 模型名称 -> OpenAI 模型名称）。
